@@ -1,6 +1,5 @@
 ---
 templateKey: home-page
-title: Home
+title: Home Page
 ---
-
-### Blank
+### Blank as anything
